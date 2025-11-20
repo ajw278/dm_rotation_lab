@@ -29,7 +29,7 @@ and keep the folder structure intact (e.g. `data/` stays next to the notebook).
 You can open this notebook in Google Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/your-username/dm-rotation-lab/blob/main/dm_rotation_widget.ipynb
+https://colab.research.google.com/github/ajw278/dm_rotation_lab/blob/main/dm_rotation_widget.ipynb
 )
 
 This is the easiest if you're not familiar with notebooks. Otherwise the following requirements are needed.
@@ -56,6 +56,7 @@ inline plots with `ipywidgets` sliders.
 conda create -n dm_widget_env python=3.11 -c conda-forge \
     jupyterlab ipywidgets matplotlib numpy
 conda activate dm_widget_env
+```
 
 ## Option B: Setup using pip + venv
 
