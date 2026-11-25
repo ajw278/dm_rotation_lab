@@ -10,16 +10,13 @@ The notebook shows:
 - Interactive sliders to change the halo and disc parameters.
 - Observed rotation-curve data overlaid for “by-eye” fitting.
 
-If you downloaded this as a zip file from QMPlus, **unzip the archive first**
-and keep the folder structure intact (e.g. `data/` stays next to the notebook).
-
 ---
 
 ## Contents
 
 - `dm_rotation_widget.ipynb` – main notebook with theory, widgets, and questions.
-- `data/` – example rotation-curve data files used in the notebook (if provided).
-- `load_gaxies.py` - script to load up galaxy data.
+- `data/` – example rotation-curve data files used in the notebook 
+- `load_galaxies.py` - script to load up galaxy data.
 - `README.md` – this file.
 
 ---
